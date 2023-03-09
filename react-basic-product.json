@@ -1,0 +1,37 @@
+[
+    {"id":1,
+    "name":"山蘇",
+    "price":399,
+    "image":"Nestfern.jpeg",
+    "description":"山蘇是台灣原生種類，以輻射狀展開葉片，能吸附塵埃、去除甲醛，淨化空氣。"},
+
+    
+    {"id":2,
+    "name":"白網紋",
+    "price":299,
+    "image":"Nerve Plant.jpeg",
+    "description":"又名：白菲通尼亞草，葉片呈卵圓狀，顏色墨綠有的白色網紋的葉脈，滯塵能力高，能淨化空氣。"
+    },
+    
+    {"id":3,
+    "name":"嬰兒淚",
+    "price":329,
+    "image":"Baby's tears.jpeg",
+    "description":"又名：玲瓏冷水花、嬰兒的眼淚，麻科冷水花屬的多年生具匍匐特性的植物，圓形小葉片連著如淚，是常見的觀葉植物。"
+    },
+    
+    {"id":4,
+    "name":"小天使蔓綠絨",
+    "price":220,
+    "image":"Philodendron.jpeg",
+    "description":"屬多年生草本蔓性植物，幼時葉形為不規則淺裂狀，成熟後葉子越大，裂葉缺刻就越多越深，像羽毛狀，能淨化空氣。",
+    "quanity":3
+    },
+    
+    {"id":5,
+    "name":"防蚊草天竺葵",
+    "price":130,
+    "image":"Citrosa Mosquito Fighter.jpeg",
+    "description":"又名：防蚊草，顧名思義可防蚊蟲，成分裡含有香茅醛是常出現在防蚊液成分裡，適合養在容易有蟲害的植物旁。"
+    }
+  ]
